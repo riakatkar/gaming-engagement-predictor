@@ -117,4 +117,4 @@ The dataset and generated model are ignored by Git. Keep the dataset's licence a
 
 - Prediction quality depends on the training data and its label-generation process.
 - The model's class probabilities are model estimates, not guarantees.
-- The notebook's high feature importance for session frequency and session duration should be investigated for possible target leakage before making strong claims about real-world predictive performance.
+- The notebook's high feature importance for session frequency and session duration should be investigated for possible target leakage before making strong claims about real-world predictive performance
